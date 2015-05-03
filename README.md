@@ -1,2 +1,2 @@
 # koze
-An simple yet powerful node.js based IRC bot.
+A simple yet powerful node.js based IRC bot.
