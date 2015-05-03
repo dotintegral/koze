@@ -1,0 +1,9 @@
+{
+	"host": "your.irc.host",
+	"port": "6667",
+	"nick": "koze",
+	"commandPrefix": ",",
+    "autojoin": [
+        "#koze"
+    ]
+}
